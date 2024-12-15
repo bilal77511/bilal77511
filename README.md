@@ -19,7 +19,7 @@
 - 📌 One Rule: Don't Repeat Yourself in Coding
 - 🤍 Love to learn new Technologies
 - 💬 Ask me about Python and leetcode
-- 🥅 2024 Goals: Researcher
+- 🥅 2025 Goals: Researcher
 - 😸 Believe in learning from others' experiences
 
 ## 🌐 Connect with Me
