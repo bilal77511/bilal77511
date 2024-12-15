@@ -18,8 +18,8 @@
 - 👯 Looking to collaborate with content creators and developers
 - 📌 One Rule: Don't Repeat Yourself in Coding
 - 🤍 Love to learn new Technologies
-- 💬 Ask me about React, JavaScript, and Python
-- 🥅 2024 Goals: Contribute more to Open Source projects
+- 💬 Ask me about Python and leetcode
+- 🥅 2024 Goals: Researcher
 - 😸 Believe in learning from others' experiences
 
 ## 🌐 Connect with Me
@@ -63,15 +63,8 @@
 - 🥇 Top 5 in Allegro Multimodal Hackathon
 - 🥈 2nd Place in WordSprint Hackathon
 - 🏅 12th Rank in Meta Hacker Cup 2024 (AI Open Track)
-- 🎓 Ehsaas Scholarship Recipient
-- 📊 IELTS Academic Score: 6.5
 
-## 📚 Education
 
-**University of Haripur**
-- Bachelor of Science in Software Engineering
-- CGPA: 3.57/4.0
-- Graduated: July 2023
 
 ## 💡 Notable Projects
 
@@ -110,5 +103,3 @@
 <div align="center">
   <img src="https://visitcount.itsvg.in/api?id=bilal77511&icon=5&color=11" alt="Visit Count" />
 </div>
-
-<!-- Proudly created with help from Claude AI -->
