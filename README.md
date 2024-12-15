@@ -1,23 +1,31 @@
-# 👋 Hi there, I'm Muhammad Bilal!
+# Hi 👋, I'm Muhammad Bilal
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&width=435&lines=Software+Engineer;Machine+Learning+Enthusiast;Hackathon+Innovator" alt="Typing SVG" />
+  <img src="https://jayamwebsolutions.com/img/website.gif" alt="MasterHead" width="100%" height="300px" style="object-fit: cover;"/>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&width=435&lines=Software+Engineer;Machine+Learning+Enthusiast;Full+Stack+Developer" alt="Typing SVG" />
 </div>
 
 ## 💫 About Me
 
-- 🚀 Passionate about Software Engineering and Machine Learning
-- 🌱 Actively participating in hackathons and technical challenges
-- 💞️ Eager to collaborate on innovative tech projects
-- 📫 Reach me at: [bilal77511@gmail.com](mailto:bilal77511@gmail.com)
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I've ranked in top 5 at multiple international hackathons!
+- 🔭 Currently working as a Full-Stack Engineer
+- 🌱 Passionate about Software Engineering and Machine Learning
+- 👯 Looking to collaborate with content creators and developers
+- 📌 One Rule: Don't Repeat Yourself in Coding
+- 🤍 Love to learn new Technologies
+- 💬 Ask me about React, JavaScript, and Python
+- 🥅 2024 Goals: Contribute more to Open Source projects
+- 😸 Believe in learning from others' experiences
 
-## 🌐 Connect with me
+## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-bilal-a75782280/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/bilal77511)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/YOUR_LEETCODE_USERNAME/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/bilal77511/)
+[![LabLab](https://img.shields.io/badge/LabLab-AI-blue)](https://lablab.ai/u/@muhammad_bilal310)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bilal77511@gmail.com)
 
 ## 💻 Tech Stack
 
@@ -25,6 +33,8 @@
 
 ### Languages & Frameworks
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
 ### Machine Learning & AI
@@ -41,6 +51,7 @@
 
 ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 </div>
 
@@ -71,14 +82,6 @@
 - Used Aria, Allegro, and OpenAI TTS models
 - Ranked top 5 in international hackathon
 
-## 🔧 Technical Skills
-
-- **Cloud & Containerization:** Kubernetes, Docker
-- **Backend:** Django, MongoDB
-- **Machine Learning:** YOLO, Prompt Engineering, Model Fine-tuning
-- **Programming:** Python
-- **Game Development:** Unreal Engine, Basic 3D Modeling (Blender)
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -86,6 +89,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username=bilal77511&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" width="450px" height="200px" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bilal77511&theme=radical&hide_border=false" alt="GitHub Streak" width="450px" height="200px" />
 </div>
+
+## 🏅 Hackathon Highlights
+
+- Aria & Allegro Multimodal Hackathon: Developed "Pulse & Prism"
+- NVIDIA Hackathon: Fine-tuned Gemma2 model
+- Edge Runners 3.2: Developed "Offline Edubot"
+- Reasoning with o1 Hackathon: Created "LegalBuddy"
 
 ---
 
