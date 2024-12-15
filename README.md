@@ -91,14 +91,19 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilal77511&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="500px" height="200px" />
   <img src="https://github-readme-stats.vercel.app/api?username=bilal77511&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" width="450px" height="200px" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bilal77511&theme=radical&hide_border=false" alt="GitHub Streak" width="450px" height="200px" />
-</div>
 
-## 🏅 Hackathon Highlights
 
-- Aria & Allegro Multimodal Hackathon: Developed "Pulse & Prism"
-- NVIDIA Hackathon: Fine-tuned Gemma2 model
-- Edge Runners 3.2: Developed "Offline Edubot"
-- Reasoning with o1 Hackathon: Created "LegalBuddy"
+
+
+
+
+
+<p align="center">
+<a href="https://github.com/bilal77511/">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bilal77511&theme=github_dark" />
+  <br>
+</a>    
+</p>
 
 ---
 
