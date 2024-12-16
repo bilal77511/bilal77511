@@ -1,5 +1,6 @@
-# Hi 👋, I'm Muhammad Bilal
-
+<div align="center">
+  <h1> Hi 👋, I'm Muhammad Bilal </h1>
+</div>
 <div align="center">
   <img src="https://jayamwebsolutions.com/img/website.gif" alt="MasterHead" width="100%" height="300px" style="object-fit: cover;"/>
 </div>
